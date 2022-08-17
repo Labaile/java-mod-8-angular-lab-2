@@ -1,10 +1,6 @@
 ---
 :lessons:
-- :id: 211150
+- :id: 204318
   :course_id: 6128
-  :canvas_url: https://learning.flatironschool.com/courses/6128/pages/lesson-title
-  :type: page
-- :id: 204320
-  :course_id: 6128
-  :canvas_url: https://learning.flatironschool.com/courses/6128/assignments/204320
+  :canvas_url: https://learning.flatironschool.com/courses/6128/assignments/204318
   :type: assignment
